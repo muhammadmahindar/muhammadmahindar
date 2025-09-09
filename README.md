@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Muhammad Mahin Dar. A Backend Engineer at [Respond.io](https://www.respond.io/)
+I'm Muhammad Mahin Dar. A Backend Squad Lead at [Respond.io](https://www.respond.io/)
 
 ## Things I am passionate about
 
